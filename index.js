@@ -11,7 +11,7 @@ export default {
 }
 
 async function sendDailyBriefing(env, city) {
-  // 从环境变量读取，而不是直接写在代码里（这是专业开发者的标准做法！）
+  // 从环境变量读取，而不是直接写在代码里
   const BOT_TOKEN = env.BOT_TOKEN;
   const CHAT_ID = env.CHAT_ID;
 
