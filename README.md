@@ -6,7 +6,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+Cloudflare Workers：展示你对 Serverless（无服务器架构） 和边缘计算的理解。
 
+Telegram Bot API：展示你对 RESTful API 调用、Webhook 和第三方集成调优的经验。
+
+JavaScript/Node.js：确立你的编程语言基调，即便你不是纯开发，也证明了你具备写生产环境代码的能力。
+
+JSON：展示你对数据交换格式的熟练处理（毕竟你的简报全是解析 JSON 出来的）。
 ---
 ## 版本记录
 - **v26.03.11**: 项目启动，实现天气、TED、文学等核心模块。
