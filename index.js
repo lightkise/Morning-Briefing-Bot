@@ -1,3 +1,6 @@
+// Version: 26.03.11
+// Last Updated: 2026-03-11
+
 export default {
   async scheduled(event, env, ctx) {
     await sendDailyBriefing(env, "淄博博山");
